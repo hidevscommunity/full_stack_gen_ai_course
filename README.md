@@ -2,6 +2,8 @@
 
 Here's an overview of the program content:
 
+Assignment [doc link](https://docs.google.com/document/d/1_UEMq81Okt3jgtouPrRdQ4oHpCRsUBleR1L5xk-kA58/edit)
+
 ## Week 1 - Gen AI 
 
 ### Topics
