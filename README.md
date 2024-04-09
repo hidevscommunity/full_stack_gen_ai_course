@@ -28,7 +28,7 @@ Assignment [doc link](https://docs.google.com/document/d/1_UEMq81Okt3jgtouPrRdQ4
 ### Resources
 [Hidevs Community: Harnessing the Power of Gen AI for Business Transformation](https://www.hidevscommunity.com/post/harnessing-the-power-of-gen-ai-for-business-transformation)
 
-[The Fundamentals of Gen AI & Foundation Models](https://github.com/hidevscommunity/full_stack_gen_ai_course/blob/main/Week_1_Webinar_2_Resources.pdf)
+[The Fundamentals of Gen AI & Foundation Models]([https://github.com/hidevscommunity/full_stack_gen_ai_course/blob/main/Week_1_Webinar_2_Resources.pdf](https://drive.google.com/file/d/1SwV_jskiift7aCdCEvP1vvi5WCI0JLni/view?usp=sharing))
 
 ## Week 2 - Prompt Engineering & LLM Models
 
