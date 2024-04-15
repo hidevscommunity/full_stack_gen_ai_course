@@ -49,6 +49,9 @@ Assignment [doc link](https://docs.google.com/document/d/1_UEMq81Okt3jgtouPrRdQ4
 - Chain of thoughts 
 - Tree of thought
 
+ ### Resources  
+[Prompt Engineering](https://docs.google.com/presentation/d/1cE0IAVODSDoY-S1CAxRU-bfwyFTJwLur/edit?usp=sharing&ouid=116710162017127536296&rtpof=true&sd=true)
+
 ## Week 3 - Python
 
 ### Topic: Learn Python using Address Book Project
