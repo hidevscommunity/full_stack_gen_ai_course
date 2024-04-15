@@ -40,7 +40,7 @@ Assignment [doc link](https://docs.google.com/document/d/1_UEMq81Okt3jgtouPrRdQ4
 - Models based on use case
   
   ### Resources
- [LLM Models](https://docs.google.com/presentation/d/1XJR_L7tx4ocZhMlVBvykGzFb2jE6H6qT/edit?usp=sharing&ouid=116710162017127536296&rtpof=true&sd=true)
+      [LLM Models](https://docs.google.com/presentation/d/1XJR_L7tx4ocZhMlVBvykGzFb2jE6H6qT/edit?usp=sharing&ouid=116710162017127536296&rtpof=true&sd=true)
 
 ### Prompt Engineering
 - Zero shot
