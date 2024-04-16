@@ -51,7 +51,9 @@ Assignment [doc link](https://docs.google.com/document/d/1_UEMq81Okt3jgtouPrRdQ4
 
  ### Resources  
 [Prompt Engineering](https://docs.google.com/presentation/d/1cE0IAVODSDoY-S1CAxRU-bfwyFTJwLur/edit?usp=sharing&ouid=116710162017127536296&rtpof=true&sd=true)
+
 [Chatgpt prompt engineering for developers short courses by Andrew Ng](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers)
+
 [Pair Programming with LLM](https://www.deeplearning.ai/short-courses/pair-programming-llm)
 
 ## Week 3 - Python
