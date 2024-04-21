@@ -73,6 +73,10 @@ Assignment [doc link](https://docs.google.com/document/d/1_UEMq81Okt3jgtouPrRdQ4
 4. Search contact details by name
 
 
+ ### Resources 
+[Python](https://www.w3schools.com/python/)
+
+
 ## Week 4 - Data Science
 
 ### Project 1: Learn Data Science using Wine Reviews Analysis
